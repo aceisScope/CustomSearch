@@ -1,0 +1,32 @@
+[
+  {
+    "name": "People",
+    "words": [
+      "Stephen Colbert",
+      "Oprah",
+      "Sartorialist"
+    ]
+  },
+  {
+    "name": "Blogs",
+    "words": [
+      "GigaOM",
+      "Tinywrld",
+      "TechCrunch"
+    ]
+  },
+  {
+    "name": "Twitter",
+    "words": [
+      "@vanityfair",
+      "@grazia",
+      "@abotdotcom"
+    ]
+  },
+  {
+    "name": "Lists",
+    "words": [
+      "@FastCompany/most-creative-people"
+    ]
+  }
+]
